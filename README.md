@@ -65,7 +65,9 @@ Courtesy of [Carrier & Gable](https://carriergable.com/)
 ![Wiring Diagram](wiring_diagram.jpg)
 
 ## Further use case.
-See the [Mcity TSCBM repository](https://github.com/mcity/Mcity-V2X-TSCBM) for a parser capable of decoding the TSCBM signal phase and timing (SPaT) message broadcast from this controller. This can be used to feed a V2X DSRC/CV2X RSU or other use cases.
+See the [Mcity TSCBM repository](https://github.com/mcity/Mcity-V2X-TSCBM) for a parser capable of decoding the TSCBM signal phase and timing (SPaT) message broadcast from this controller. This can be used to feed a V2X DSRC/CV2X RSU or other use cases. 
+
+If you require a more full-fledged test facility / city control system, please see [Mcity OCTANE](https://go.um.city/license).
 
 ## Thanks!
 Special thanks to Mcity for supporting this work. Thanks again to [Carrier & Gable](https://carriergable.com/) for providing technical advice, construction of the connector, and EOS configuration work!
