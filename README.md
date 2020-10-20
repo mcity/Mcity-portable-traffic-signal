@@ -23,7 +23,7 @@ The configuration file is available in this repository and is named eos_controll
 
 ## BOM
 If you build this with all new parts it's about a $15k setup.
-If you build just the relay box expect to be out ~$200 for parts.
+If you build just the relay box expect to be out ~$200 for parts, not including the Amphenol connector.
 
 Reduce costs for the entire setup further by sourcing a light and traffic controller used.
 
@@ -33,7 +33,7 @@ Reduce costs for the entire setup further by sourcing a light and traffic contro
 * 16 pin wire harness terminal (https://www.amazon.com/EMeskymall-Motorcycle-Waterproof-Electrical-Connector/dp/B074LJ4NGJ)
 * Waterproof enclosure (10x8x8 at least)
 * Power cord
-* Amphenol NEMA-A connector 55 pin FEMALE
+* Amphenol NEMA-A connector 55 pin FEMALE ([Carrier & Gable](https://carriergable.com/) built ours)
 * Terminal Block w/ Barrier strip (https://www.amazon.com/Positions-Terminal-Pre-Insulated-Barrier-MILAPEAK/dp/B07CLW5FPS)
 * 16 Channel DC 24v High/Low Trigger Relay Board (https://www.amazon.com/gp/product/B07P6WTPRR)
 * Waterproof glands (https://www.amazon.com/gp/product/B07Q2TYSTM/)
