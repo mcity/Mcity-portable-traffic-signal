@@ -17,9 +17,9 @@ The traffic signal we have is outfit with LED bulbs. We rewired each signal grou
 ## Traffic Controller Details
 Our Traffic controller is an Econolite Cobalt running EOS (vs ASC/3). The configuration provided in this repository runs the light off just the A connector on the controller.
 
-We're running EOS 03.01.38 with recall on the lights enabled so that it cycles constantly by default.
+We're running EOS 03.01.38 with recall on the lights enabled. With this feature on (not required on ASC/3) the controller will cycle constantly by default.
 
-The configuration file is available in this repository and is named eos_controller.cfg. Load to to the controller by USB or data key ((MM-8-2)). 
+The configuration file is available in this repository and is named eos_controller.cfg. Load to the controller by USB or data key (MM-8-2). 
 
 ## BOM
 If you build this with all new parts it's about a $15k setup.
