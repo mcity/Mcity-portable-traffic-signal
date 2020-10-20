@@ -2,7 +2,7 @@
 ![Traffic Signal](traffic_signal.jpg)
 
 ## Background
-Mcity wished to run a standard traffic controller with attached signal in our office. We wanted to be able to test against a real traffic controller and have a better visualization than some of the tools which currently existed on the market for traffic control.
+[Mcity](https://mcity.umich.edu) wished to run a standard traffic controller with attached signal in our office. We wanted to be able to test against a real traffic controller and have a better visualization than some of the tools which currently existed on the market for traffic control.
 
 We'd like to thank [Econolite](https://www.econolite.com/) for providing the traffic controller to us for Mcity research. In addition, we'd like to offer a special thank you to Brian Raymond at [Carrier & Gable](https://carriergable.com/). Brian guided us through the project, assisted with controller configuration, and assembly of the Amphenol connection for us. While our original setup worked, Brian's contributions made this something we were not embarrassed to publish.
 
@@ -70,4 +70,4 @@ See the [Mcity TSCBM repository](https://github.com/mcity/Mcity-V2X-TSCBM) for a
 If you require a more full-fledged test facility / city control system, please see [Mcity OCTANE](https://go.um.city/license).
 
 ## Thanks!
-Special thanks to Mcity for supporting this work. Thanks again to [Carrier & Gable](https://carriergable.com/) for providing technical advice, construction of the connector, and EOS configuration work!
+Special thanks to [Mcity](https://mcity.umich.edu) for supporting this work. Thanks again to [Carrier & Gable](https://carriergable.com/) for providing technical advice, construction of the connector, and EOS configuration work!
